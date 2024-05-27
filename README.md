@@ -1,5 +1,5 @@
-Tugas Dicoding Belajar Membuat Front-End Web untuk Pemula.
+Dicoding Assignments "Belajar Membuat Front-End Web untuk Pemula."
 
-Membuat Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage / Bookshelf Web.
+Creating Data Management Applications Using DOM and Web Storage / Web Bookshelf.
 
-Kurang Fitur Pencarian.
+Lack of Search Feature.
